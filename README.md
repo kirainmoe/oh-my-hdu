@@ -1,2 +1,15 @@
 # oh-my-hdu
-Codes &amp; solutions of HDUOJ's problems (http://acm.hdu.edu.cn) that I solved. Just a repo for backing up.
+
+这是本蒟蒻在 [HDUOJ](http://acm.hdu.edu.cn) 上刷题的记录，包括源代码和部分题的题解。
+
+每道题对应相应题号的文件夹，题号后的内容是本题大概运用到的算法。
+
+一些题目还附带一些自己造的数据和 data generator 的源代码。
+
+题解都是自己 YY 的，所以不一定是对的；代码大部分是 AC 的，但是也不代表没有漏洞。所以说，这个仓库大概只是我用来同步代码用的。至于对其他人有没有什么启发或者参考价值，不在我的考虑范围之内了。
+
+如果你对某一题的题解有疑问、发现了错误，或者你认为这道题有更好的解法，欢迎提出 issues / pull request.
+
+以上。
+
+&copy;2017 kirainmoe (https://kirainmoe.com)
